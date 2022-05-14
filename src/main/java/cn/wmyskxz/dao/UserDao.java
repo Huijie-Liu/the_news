@@ -10,7 +10,7 @@ import java.util.List;
 public interface UserDao {
 
     // 根据 id 寻找对应的 User
-    //User findUserById(int id);
+    User findUserById(int id);
 
     //查询所有新闻类型
     List<Category> findAllcategory();

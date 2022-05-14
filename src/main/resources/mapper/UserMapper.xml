@@ -4,6 +4,11 @@
 <!-- 设置为IUserDao接口方法提供sql语句配置 -->
 <mapper namespace="cn.wmyskxz.dao.UserDao">
 
+    <!--查询用户-->
+    <select id="findUserById" resultType="cn.wmyskxz.entity.User" parameterType="int">
+      SELECT * FROM user WHERE id=#{id};
+    </select>
+
     <!--查询所有新闻类型-->
     <select id="findAllcategory" resultType="cn.wmyskxz.entity.Category">
       SELECT * FROM category;

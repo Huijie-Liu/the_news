@@ -18,6 +18,12 @@ public class UserServiceImpl implements UserService {
 
     @Override
     @Transactional
+    public User findUserById(int id) {
+        return userDao.findUserById(id);
+    }
+    
+    @Override
+    @Transactional
     public List<Category> findAllcategory() {
         return userDao.findAllcategory();
     }
