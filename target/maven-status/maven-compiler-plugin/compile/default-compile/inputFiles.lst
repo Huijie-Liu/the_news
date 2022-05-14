@@ -1,0 +1,12 @@
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/controller/AdminController.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/service/AdminServiceImpl.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/config/LoginHandlerInterceptor.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/service/UserServiceImpl.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/entity/News.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/controller/UserController.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/dao/AdminDao.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/service/AdminService.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/entity/User.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/dao/UserDao.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/entity/Category.java
+/workspace/NewsSystem/src/main/java/cn/wmyskxz/service/UserService.java
