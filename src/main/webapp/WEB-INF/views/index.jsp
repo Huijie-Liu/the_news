@@ -1,12 +1,12 @@
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>SSM 框架整合</title>
+    <title>The News</title>
 
     <!-- Bootstrap core CSS -->
     <link th:href="@{/static/css/bootstrap.min.css}" rel="stylesheet">
 
 </head>
-<body>
+<body style="background: url(https://w.wallhaven.cc/full/m9/wallhaven-m9ezjy.jpg) no-repeat center center fixed; background-size: 100%;">
 
 <div class="row">
 

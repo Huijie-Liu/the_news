@@ -11,6 +11,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c15c66c7-4d61-44b7-8865-d4f0f9e14378" name="Default" comment="新闻管理系统">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wmyskxz/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/wmyskxz/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/newsDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/newsDetail.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,6 +316,7 @@
       </method>
     </configuration>
     <configuration name="Tomcat 8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.78" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="新闻管理系统:war exploded">
@@ -443,7 +448,11 @@
       <workItem from="1652519927128" duration="3299000" />
       <workItem from="1652523568295" duration="11000" />
       <workItem from="1652524956506" duration="15000" />
-      <workItem from="1652524991461" duration="330000" />
+      <workItem from="1652524991461" duration="710000" />
+      <workItem from="1652960905394" duration="677000" />
+      <workItem from="1652961648333" duration="20000" />
+      <workItem from="1652961744605" duration="79000" />
+      <workItem from="1653110811796" duration="4956000" />
     </task>
     <task id="LOCAL-00001" summary="新闻管理系统">
       <created>1610011848965</created>
@@ -466,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652524492320</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新闻管理系统">
+      <created>1652525325353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652525325353</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">

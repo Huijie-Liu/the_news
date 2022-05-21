@@ -27,7 +27,7 @@ public class UserController {
         List<News> news = userService.findAllNews();
         model.addAttribute("categorys",categories);
         model.addAttribute("news",news);
-        return "index";
+        return "/index";
     }
 
     //根据新闻类型展示
@@ -37,7 +37,7 @@ public class UserController {
         List<News> news = userService.allNewsByCid(cid);
         model.addAttribute("categorys",categories);
         model.addAttribute("news",news);
-        return "index";
+        return "/index";
     }
 
     //根据新闻id查询新闻
@@ -45,7 +45,7 @@ public class UserController {
     public String findNewsById(@PathVariable("id") Integer id, Model model){
         News news = userService.findNewsById(id);
         model.addAttribute("news",news);
-        return "newsDetail";
+        return "/newsDetail";
     }
 
     //根据新闻标题查询新闻
@@ -55,6 +55,6 @@ public class UserController {
         List<News> news = userService.findNewsByTitle(title);
         model.addAttribute("categorys",categories);
         model.addAttribute("news",news);
-        return "index";
+        return "/index";
     }
 }
