@@ -9,12 +9,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c15c66c7-4d61-44b7-8865-d4f0f9e14378" name="Default" comment="新闻管理系统">
+    <list default="true" id="c15c66c7-4d61-44b7-8865-d4f0f9e14378" name="Default" comment="添加ajax">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/wmyskxz/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/wmyskxz/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/newsDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/newsDetail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/wmyskxz/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/wmyskxz/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/news-1.0-SNAPSHOT/WEB-INF/classes/cn/wmyskxz/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/news-1.0-SNAPSHOT/WEB-INF/classes/cn/wmyskxz/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/news-1.0-SNAPSHOT/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/news-1.0-SNAPSHOT/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/news-1.0-SNAPSHOT/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/news-1.0-SNAPSHOT/WEB-INF/views/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/news-1.0-SNAPSHOT/WEB-INF/views/newsDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/news-1.0-SNAPSHOT/WEB-INF/views/newsDetail.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -256,7 +259,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -452,7 +455,7 @@
       <workItem from="1652960905394" duration="677000" />
       <workItem from="1652961648333" duration="20000" />
       <workItem from="1652961744605" duration="79000" />
-      <workItem from="1653110811796" duration="4956000" />
+      <workItem from="1653110811796" duration="8316000" />
     </task>
     <task id="LOCAL-00001" summary="新闻管理系统">
       <created>1610011848965</created>
@@ -482,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652525325353</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加ajax">
+      <created>1653143728056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653143728056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -550,7 +560,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="新闻管理系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="新闻管理系统" />
+    <MESSAGE value="添加ajax" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加ajax" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml">

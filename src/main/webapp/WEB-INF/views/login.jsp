@@ -48,7 +48,6 @@
                 }else{
 
                     //2.将用户名和密码传递给后台
-
                     $.ajax({
                         type:"post",
                         url:"LoginServlet",
@@ -60,7 +59,7 @@
                                 alert("用户名或密码不正确！");
                             }else{
                                 //登录成功
-                                location.href="index.html"; //页面跳转
+                                location.href="/index"; //页面跳转
                             }
                         }
                     });
