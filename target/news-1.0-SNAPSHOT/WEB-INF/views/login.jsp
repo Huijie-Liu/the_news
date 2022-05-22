@@ -1,12 +1,12 @@
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>SSM 框架整合</title>
+    <title>The News</title>
 
     <!-- Bootstrap core CSS -->
     <link th:href="@{/static/css/bootstrap.min.css}" rel="stylesheet">
 
 </head>
-<body style=" background: url(http://global.bing.com/az/hprichbg/rb/RavenWolf_EN-US4433795745_1920x1080.jpg) no-repeat center center fixed; background-size: 100%;">
+<body style="background: url(https://w.wallhaven.cc/full/k7/wallhaven-k75weq.jpg) no-repeat center center fixed; background-size: 100%;">
 
     <form class="form-signin" th:action="@{/admin/loginVerify}" method="post">
         <div class="modal-dialog" style="margin-top: 10%;">

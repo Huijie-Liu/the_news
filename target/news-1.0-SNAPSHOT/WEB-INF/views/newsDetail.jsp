@@ -1,6 +1,6 @@
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>SSM 框架整合</title>
+    <title>The News</title>
 
     <!-- Bootstrap core CSS -->
     <link th:href="@{/static/css/bootstrap.min.css}" rel="stylesheet">
